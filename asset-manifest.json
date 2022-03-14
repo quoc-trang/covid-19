@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/covid-19/static/js/main.00a29960.js",
+    "index.html": "/covid-19/index.html",
+    "main.00a29960.js.map": "/covid-19/static/js/main.00a29960.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.00a29960.js"
+  ]
+}
